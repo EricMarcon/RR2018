@@ -1,0 +1,15 @@
+---
+title: "Addition"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Addition
+Utiliser l'opérateur `+` :
+
+```{r addition}
+2+2
+```
